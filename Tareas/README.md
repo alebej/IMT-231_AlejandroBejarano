@@ -2,4 +2,4 @@
 
 ## ALEJANDRO BEJARANO
  
- Esta carpeta fue creada para subir tareas
+ Esta carpeta fue creada para subir tareas de programacion superior 
